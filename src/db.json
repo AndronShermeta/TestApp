@@ -1,0 +1,96 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name2",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name3",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+		{
+      "id": 4,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name4",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name5",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://ru.reactjs.org/logo-og.png",
+      "name": "Product name6",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": ["CommentModel", "CommentModel"]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}
